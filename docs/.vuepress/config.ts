@@ -5,7 +5,7 @@ import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 import { getDirname, path } from '@vuepress/utils'
 const __dirname = getDirname(import.meta.url) // 获取当前文件目录
 export default defineUserConfig({
-  base: '/<REPO>/',
+  base: '/PolyU-Web-3.0-and-Post-Quantum-Security-Lab/',
   lang: 'en-US',
   locales: {
     '/': {
