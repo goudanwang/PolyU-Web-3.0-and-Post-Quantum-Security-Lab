@@ -22,7 +22,7 @@ export default defineUserConfig({
   head: [
     // 配置站点图标
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
-    ['link', { rel: 'stylesheet', href: '/custom.css' }],
+    ['link', { rel: 'stylesheet', href: '/PolyU-Web-3.0-and-Post-Quantum-Security-Lab/custom.css' }],
   ],
 
   bundler: viteBundler({
