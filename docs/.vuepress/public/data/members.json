@@ -1,0 +1,34 @@
+[
+    {
+      "name": "Prof. Bin XIAO",
+      "position": "Director of Web3.0 & Post-Quantum Labs, Professor (COMP)",
+      "bio": "Web3 security, data privacy, blockchain systems",
+      "email": "b.xiao@polyu.edu.hk",
+      "homepage": "https://www.polyu.edu.hk/comp/people/academic-staff/prof-xiao-bin/",
+      "photo": "/data/members/proxiao.jpg"
+    },
+    {
+      "name": "Dr. Shang GAO",
+      "position": "Assistant Professor (COMP & AF)",
+      "bio": "Applied cryptography, zero-knowledge proofs, lattice-based cryptography",
+      "email": "shang-jason.gao@polyu.edu.hk",
+      "homepage": "https://www.polyu.edu.hk/comp/people/academic-staff/prof-gao-shang/",
+      "photo": "/data/members/drgao.jpg"
+    },
+    {
+      "name": "Dr. Zhe PENG",
+      "position": "Research Assistant Professor (ISE)",
+      "bio": "Blockchain, Web3, AIoT, Data Security and Privacy",
+      "email": "jeffrey-zhe.peng@polyu.edu.hk",
+      "homepage": "https://www.polyu.edu.hk/ise/people/academic-staff/zhe-peng/",
+      "photo": "/data/members/drpeng.jpg"
+    },
+    {
+      "name": "Dr. Zecheng LI",
+      "position": "Research Assistant Professor (COMP)",
+      "bio": "Blockchain security, smart contract security, and trusted execution environment",
+      "email": "zecheng-comp.li@polyu.edu.hk",
+      "homepage": "https://www.polyu.edu.hk/comp/people/academic-staff/dr-li-zecheng/",
+      "photo": "/data/members/drli.jpg"
+    }
+  ]
