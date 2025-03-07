@@ -7,8 +7,6 @@
     --vp-nav-bg-color: rgb(138, 34, 34); /* 设置全局变量的值 */
     
 }
-
-
 /* 设置导航栏标题的字体颜色为白色 */
 .vp-navbar-title a {
     color: white !important; /* 强制设置颜色为白色 */
