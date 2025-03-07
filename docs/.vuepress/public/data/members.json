@@ -5,7 +5,7 @@
       "bio": "Web3 security, data privacy, blockchain systems",
       "email": "b.xiao@polyu.edu.hk",
       "homepage": "https://www.polyu.edu.hk/comp/people/academic-staff/prof-xiao-bin/",
-      "photo": "/PolyU-Web-3.0-and-Post-Quantum-Security-Lab/members/data/members/proxiao.jpg"
+      "photo": "/PolyU-Web-3.0-and-Post-Quantum-Security-Lab/data/members/proxiao.jpg"
     },
     {
       "name": "Dr. Shang GAO",
@@ -13,7 +13,7 @@
       "bio": "Applied cryptography, zero-knowledge proofs, lattice-based cryptography",
       "email": "shang-jason.gao@polyu.edu.hk",
       "homepage": "https://www.polyu.edu.hk/comp/people/academic-staff/prof-gao-shang/",
-      "photo": "/PolyU-Web-3.0-and-Post-Quantum-Security-Lab/members/data/members/drgao.jpg"
+      "photo": "/PolyU-Web-3.0-and-Post-Quantum-Security-Lab/data/members/drgao.jpg"
     },
     {
       "name": "Dr. Zhe PENG",
@@ -21,7 +21,7 @@
       "bio": "Blockchain, Web3, AIoT, Data Security and Privacy",
       "email": "jeffrey-zhe.peng@polyu.edu.hk",
       "homepage": "https://www.polyu.edu.hk/ise/people/academic-staff/zhe-peng/",
-      "photo": "/PolyU-Web-3.0-and-Post-Quantum-Security-Lab/members/data/members/drpeng.jpg"
+      "photo": "/PolyU-Web-3.0-and-Post-Quantum-Security-Lab/data/members/drpeng.jpg"
     },
     {
       "name": "Dr. Zecheng LI",
@@ -29,6 +29,6 @@
       "bio": "Blockchain security, smart contract security, and trusted execution environment",
       "email": "zecheng-comp.li@polyu.edu.hk",
       "homepage": "https://www.polyu.edu.hk/comp/people/academic-staff/dr-li-zecheng/",
-      "photo": "/PolyU-Web-3.0-and-Post-Quantum-Security-Lab/members/data/members/drli.jpg"
+      "photo": "/PolyU-Web-3.0-and-Post-Quantum-Security-Lab/data/members/drli.jpg"
     }
   ]
