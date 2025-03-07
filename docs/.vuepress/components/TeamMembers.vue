@@ -22,7 +22,7 @@
   // 加载成员数据
   const fetchMembers = async () => {
     try {
-      const response = await fetch('/data/members.json')
+      const response = await fetch('/PolyU-Web-3.0-and-Post-Quantum-Security-Lab/data/members.json')
       members.value = await response.json()
     } catch (error) {
       console.error('加载成员数据失败:', error)

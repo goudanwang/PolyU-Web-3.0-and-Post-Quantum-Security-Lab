@@ -20,7 +20,7 @@
   
   const fetchNews = async () => {
     try {
-      const response = await fetch('/data/news.json')
+      const response = await fetch('/PolyU-Web-3.0-and-Post-Quantum-Security-Lab/data/news.json')
       newsList.value = await response.json()
     } catch (error) {
       console.error('Failed to load news:', error)
