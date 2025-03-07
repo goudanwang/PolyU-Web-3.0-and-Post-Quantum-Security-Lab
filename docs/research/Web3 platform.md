@@ -1,7 +1,7 @@
 ---
 title: Web3 Platform
 createTime: 2025/03/07 16:03:15
-permalink: /article/c4tpmvis
+permalink: /article/c8tpmvis/
 ---
 ## Web3 Platform
 
