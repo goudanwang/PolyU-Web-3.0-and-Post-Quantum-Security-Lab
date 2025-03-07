@@ -9,7 +9,7 @@ permalink: /article/c4tpmvis
 
 PolyuDID is an open-source decentralized identity infrastructure revolutionizing Web3 privacy through AI-powered anonymous credentials. As the first platform combining zero-knowledge proofs, BBS+ signatures, and LLM intelligence, we enable truly user-controlled digital identities with cryptographic privacy guarantees. Our modular system empowers developers to build compliant Web3 applications while ensuring complete transaction unlinkability, dynamic credential management, and minimal data exposure through selective disclosure capabilities.
 
-![KYC Icon](../PolyU-Web-3.0-and-Post-Quantum-Security-Lab/data/research_fig/overview.svg)
+![KYC Icon](../.vuepress/public/data/research_fig/overview.svg)
 
 ### Open-Source Architecture
 
