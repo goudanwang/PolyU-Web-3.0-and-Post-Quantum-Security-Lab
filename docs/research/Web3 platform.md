@@ -9,7 +9,7 @@ permalink: /article/c4tpmvis
 
 PolyuDID is an open-source decentralized identity infrastructure revolutionizing Web3 privacy through AI-powered anonymous credentials. As the first platform combining zero-knowledge proofs, BBS+ signatures, and LLM intelligence, we enable truly user-controlled digital identities with cryptographic privacy guarantees. Our modular system empowers developers to build compliant Web3 applications while ensuring complete transaction unlinkability, dynamic credential management, and minimal data exposure through selective disclosure capabilities.
 
-![KYC Icon](./Web3 platform/overview.svg)
+![KYC Icon](./PolyU-Web-3.0-and-Post-Quantum-Security-Lab/data/research_fig/overview.svg)
 
 ### Open-Source Architecture
 
@@ -21,7 +21,7 @@ PolyuDID's modular design supports multi-role participation through three core c
 
 Our open-source middleware supports custom extensions while maintaining interoperability through W3C-compliant standards.
 
-<img src="./Web3 platform/component.svg" alt="Open-Source Architecture" style="zoom:33%;" />
+<img src="./PolyU-Web-3.0-and-Post-Quantum-Security-Lab/data/research_fig/component.svg" alt="Open-Source Architecture" style="zoom:33%;" />
 
 ### Next-Gen Intelligent Privacy Stack
 
@@ -31,7 +31,7 @@ PolyuDID introduces groundbreaking technical capabilities:
 - **Advanced Privacy Stack:** Combines zk-SNARKs for selective disclosure with BBS+ signatures for multi-show unlinkability, achieving military-grade privacy
 - **Dynamic Credential Ecosystem:** Supports time-bound credentials, delegated issuance, and cross-chain revocation status synchronization
 
-<img src="./Web3 platform/tech.svg" alt="AI-Driven Privacy Innovations" style="zoom: 25%;" />
+<img src="./PolyU-Web-3.0-and-Post-Quantum-Security-Lab/data/research_fig/tech.svg" alt="AI-Driven Privacy Innovations" style="zoom: 25%;" />
 
 ### Links and Resources  
 
