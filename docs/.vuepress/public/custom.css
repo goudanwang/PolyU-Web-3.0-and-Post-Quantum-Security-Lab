@@ -1,12 +1,13 @@
 
+html, body {
+    --vp-nav-bg-color: rgb(138, 34, 34); /* 设置全局变量的值 */
+    
+}
 /* 设置导航栏的背景颜色 */
 .vp-nav {
     background-color: rgb(138, 34, 34)!important; /* 设置背景颜色为红色 */
 }
-:root {
-    --vp-nav-bg-color: rgb(138, 34, 34); /* 设置全局变量的值 */
-    
-}
+
 /* 设置导航栏标题的字体颜色为白色 */
 .vp-navbar-title a {
     color: white !important; /* 强制设置颜色为白色 */

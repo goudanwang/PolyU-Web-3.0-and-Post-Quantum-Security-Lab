@@ -41,7 +41,7 @@ Concurrently, the advent of quantum computing poses a significant threat to the 
 <h1 style="text-align: center; font-weight: bold;">News</h1>
 <SimpleNews />
   <div style="text-align: right;">
-        <a href="/news/" style="display: inline-flex; align-items: center; padding: 10px 20px; color: #007BFF; text-decoration: none;">
+        <a href="/PolyU-Web-3.0-and-Post-Quantum-Security-Lab/research/news/" style="display: inline-flex; align-items: center; padding: 10px 20px; color: #007BFF; text-decoration: none;">
             More 
             <span style="margin-left: 5px;">&gt;&gt;</span>
         </a>

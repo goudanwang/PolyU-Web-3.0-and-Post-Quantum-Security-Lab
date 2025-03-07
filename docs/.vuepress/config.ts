@@ -21,7 +21,7 @@ export default defineUserConfig({
   },
   head: [
     // 配置站点图标
-    ['link', { rel: 'icon', type: 'image/png', href: '/PolyU-Web-3.0-and-Post-Quantum-Security-Lab/data/members/favicon.png' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/PolyU-Web-3.0-and-Post-Quantum-Security-Lab/favicon.png' }],
     ['link', { rel: 'stylesheet', href: '/PolyU-Web-3.0-and-Post-Quantum-Security-Lab/custom.css' }],
   ],
 
