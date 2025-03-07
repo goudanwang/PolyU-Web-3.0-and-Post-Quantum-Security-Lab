@@ -1,0 +1,75 @@
+
+html, body {
+    --vp-nav-bg-color: rgb(138, 34, 34); /* 设置全局变量的值 */
+    
+}
+/* 设置导航栏的背景颜色 */
+.vp-nav {
+    background-color: rgb(138, 34, 34)!important; /* 设置背景颜色为红色 */
+}
+
+/* 设置导航栏标题的字体颜色为白色 */
+.vp-navbar-title a {
+    color: white !important; /* 强制设置颜色为白色 */
+}
+
+/* 可选：确保 span 内的文字颜色也为白色 */
+.vp-navbar-title a span {
+    color: white !important; /* 强制设置 span 内文字颜色为白色 */
+}
+/* 设置导航栏链接的颜色 */
+.navbar-menu-link {
+    color: white !important; /* 设置链接颜色为白色 */
+}
+
+/* 设置链接的默认样式 */
+.navbar-menu-link {
+    text-decoration: none; /* 去掉下划线 */
+}
+
+/* 悬停时字体颜色 */
+.navbar-menu-link:hover {
+    color: black !important; /* 悬停时字体颜色为黑色 */
+}
+
+/* 针对 active 状态的样式 */
+.navbar-menu-link.active {
+    color: white !important; /* 确保 active 状态颜色为白色 */
+}
+
+/* 针对 span 的样式，确保文字颜色也被设置 */
+.navbar-menu-link span {
+    color: inherit; /* 继承父元素的颜色 */
+}
+
+/* 设置导航栏按钮文本的颜色 */
+.vp-navbar-menu-group .button .text {
+    color: white !important; /* 设置按钮文本颜色为白色 */
+}
+
+/* 悬停时按钮和下拉菜单链接的颜色 */
+.vp-navbar-menu-group .button:hover .text,
+.vp-menu .vp-menu-link a:hover {
+    color: black !important; /* 悬停时颜色为黑色 */
+}
+
+/* 设置下拉菜单链接的颜色 */
+.vp-menu .vp-menu-link a {
+    color: white !important; /* 设置下拉菜单链接颜色为白色 */
+}
+
+/* 确保下拉菜单项的样式继承 */
+.vp-menu .vp-menu-link a {
+    text-decoration: none; /* 去掉下划线 */
+}
+
+.hero-tagline {
+    color: rgb(138, 34, 34) !important; /* 暗红色 */
+}
+.hero .name {
+    color: rgb(138, 34, 34) !important; /* 暗红色 */
+}
+.vp-button.medium.brand {
+    background-color: rgb(138, 34, 34) !important; /* 红色背景 */
+    color: white !important; /* 黑色字体 */
+}
