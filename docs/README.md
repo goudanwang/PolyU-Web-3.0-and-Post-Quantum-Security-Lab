@@ -50,22 +50,6 @@ Concurrently, the advent of quantum computing poses a significant threat to the 
 <div style="width: 400px; margin: 0 auto; margin-bottom: 20px; text-align: left;">
     <p>
         <span style="margin-right: 8px;">📍</span>
-        <a href="https://github.com/your-repo" style="text-decoration: none; color: #007BFF;">CSL@CQU GitHub</a>
-    </p>
-    <p>
-        <span style="margin-right: 8px;">📈</span>
-        <a href="https://your-link-to-ranks" style="text-decoration: none; color: #007BFF;">CSL@CQU Conference/Journal Ranks</a>
-    </p>
-    <p>
-        <span style="margin-right: 8px;">🏆</span>
-        <a href="https://your-link-to-best-papers" style="text-decoration: none; color: #007BFF;">Best Paper Lists</a>
-    </p>
-    <p>
-        <span style="margin-right: 8px;">🗓️</span>
-        <a href="https://your-link-to-ai-deadlines" style="text-decoration: none; color: #007BFF;">AI Conference Deadlines</a>
-    </p>
-    <p>
-        <span style="margin-right: 8px;">🔒</span>
-        <a href="https://your-link-to-security-deadlines" style="text-decoration: none; color: #007BFF;">Security and Privacy Conference Deadlines</a>
+        <a href="https://www.polyu.edu.hk/comp/" style="text-decoration: none; color: #007BFF;">PolyU COMP department</a>
     </p>
 </div>
